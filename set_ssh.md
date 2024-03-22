@@ -21,3 +21,11 @@ example: ssh-keygen -t rsa -f ~/.ssh/id_rsa.github -C "xiaohanjin.private@outloo
 -C // Provides a new comment. 提供新注释 "xiaohanjin.private@outlook.com"
 
 确保有密码验证，以及私钥为:~/.ssh/id_rsa
+
+Git - Book (git-scm.com)
+git push remote branch
+git push origin main
+git pull origin main
+git push origin integration
+![image](https://github.com/jinxiaohan/My_Computer_Knowledge/assets/164278152/c9277ffd-0883-47cd-8247-839e66a0cbb9)
+
